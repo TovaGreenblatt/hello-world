@@ -1,2 +1,1 @@
-First Name: Tova
-Last Name: Greenblatt
+Name: Tova Greenblatt
